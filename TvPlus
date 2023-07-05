@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1954" group="Internacional", Las Estrellas
+http://190.83.60.34:1414/play/a06j
+#EXTINF:0 type="stream" channelId="2689" group="Internacional", Adn40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 type="stream" channelId="2489" group="Internacional", Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4770" group="Internacional", CableNoticias
+http://45.191.234.189:15082/play/a034/index.m3u8
+#EXTINF:0 type="stream" channelId="328" group="Internacional", ForoTv
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="3727" group="Internacional", Az Cinema
+http://190.83.60.34:1414/play/a03y
+#EXTINF:0 type="stream" channelId="4773" group="Internacional", Caracol
+http://45.191.234.189:15084/play/a047/index.m3u8
+#EXTINF:0 type="stream" channelId="2545" group="Internacional", Latina HD
+http://190.83.60.34:1414/play/a04k
+#EXTINF:0 type="stream" channelId="3789" group="Internacional", Telefe
+http://45.191.234.189:15082/play/a035/index.m3u8
+#EXTINF:0 type="stream" channelId="1491" group="Internacional", EWTN
+http://45.191.234.189:15082/play/a059/index.m3u8
+#EXTINF:0 type="stream" channelId="139" group="Internacional", France24
+http://45.191.234.189:15082/play/a04j/index.m3u8
+#EXTINF:0 type="stream" channelId="3783", RCN
+http://45.191.234.189:15082/play/a033/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Internacional" logo="https://www.frecuenciaf.com/img/LogoAdmin.png", Frecuencia F
+http://45.191.234.189:15082/play/a02d/index.m3u8
+#EXTINF:0 type="stream" channelId="2546" group="Internacional" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png", America TV
+http://190.83.60.34:1414/play/a04j
+#EXTINF:0 type="stream" channelId="1569" group="Internacional", TV+
+http://45.191.234.189:15082/play/a02w/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Internacional" logo="https://static.wikia.nocookie.net/logopedia/images/0/07/HogarTV.png", Hogar TV
+http://45.191.234.189:15084/play/a02b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Internacional", UMC
+http://45.191.234.189:15084/play/a02c/index.m3u8
+#EXTINF:0 type="stream" channelId="2035" group="Cultura", Love Nature
+http://45.191.234.189:15082/play/a04t/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Cultura", National Geographic Channel
+http://190.83.60.34:1414/play/a03j
+#EXTINF:0 type="stream" channelId="50" group="Cultura", Animal Planet
+http://190.83.60.34:1414/play/a042
+#EXTINF:0 type="stream" channelId="1455" group="Cultura", History
+http://190.83.60.34:1414/play/a01b
+#EXTINF:0 type="stream" channelId="1201" group="Cultura", H2
+http://45.191.234.189:15082/play/a04w/index.m3u8
+#EXTINF:0 type="stream" channelId="2620" group="Cultura", Discovery Home & Health
+http://190.83.60.34:1414/play/a02q
+#EXTINF:0 type="stream" channelId="3743" group="Cultura", DHE
+http://190.83.60.34:1414/play/a059
+#EXTINF:0 type="stream" channelId="341", Discovery HD
+http://190.83.60.34:1414/play/a05a
+#EXTINF:0 type="stream" channelId="2558" group="Cultura", Discovery Theater HD
+http://190.83.60.34:1414/play/a02r
+#EXTINF:0 type="stream" channelId="2839" group="Cultura", Discovery World
+http://190.83.60.34:1414/play/a03k
+#EXTINF:0 type="stream" channelId="59" group="Cultura" logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png", Discovery ID
+http://190.83.60.34:1414/play/a02h
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+http://45.191.234.189:15082/play/a03g/index.m3u8
+#EXTINF:0 type="stream" channelId="1197" group="Niños", Disney Junior
+http://45.191.234.189:15082/play/a058/index.m3u8
+#EXTINF:0 type="stream" channelId="2505" group="Niños", Discovery Kids
+http://190.83.60.34:1414/play/a02p
+#EXTINF:0 type="stream" channelId="40" group="Niños", Cartoon Network
+http://190.83.60.34:1414/play/a03u
+#EXTINF:0 type="stream" channelId="1305" group="Niños", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:0 type="stream" channelId="473" group="Niños", Baby TV
+http://45.191.234.189:15084/play/a04b/index.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Niños", Nickelodeon
+http://190.83.60.34:1414/play/a01s
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN
+http://190.83.60.34:1414/play/a036
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN
+http://190.83.60.34:1414/play/a01v
+#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
+http://45.191.234.189:15082/play/a02k/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
+http://190.83.60.34:1414/play/a02c
+#EXTINF:0 type="stream" channelId="355" group="Deportes", ESPN 3
+http://45.191.234.189:15082/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4
+http://45.191.234.189:15082/play/a02s/index.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="Deportes", ESPN Extra
+http://45.191.234.189:15082/play/a02z/index.m3u8
+#EXTINF:0 type="stream" channelId="170" group="Deportes", FOX Sports 2
+http://45.191.234.189:15082/play/a02t/index.m3u8
+#EXTINF:0 type="stream" channelId="180" group="Deportes", Fox Sports
+http://45.191.234.189:15082/play/a03i/index.m3u8
+#EXTINF:0 type="stream" channelId="1365" group="Deportes", Movistar Deportes
+http://190.83.60.34:1414/play/a05s
+#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports
+http://190.83.60.34:1414/play/a01h
+#EXTINF:0 type="stream" channelId="1686" group="Deportes", GolTV
+http://190.83.60.34:1414/play/a04f
+#EXTINF:0 type="stream" channelId="4788" group="Deportes", Win Sports
+http://45.191.234.189:15082/play/a02l/index.m3u8
+#EXTINF:0 type="stream" channelId="1208", A&E
+http://45.191.234.189:15082/play/a02g/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="Entretenimiento", AXN
+http://45.191.234.189:15082/play/a02j/index.m3u8
+#EXTINF:0 type="stream" channelId="3799" group="Entretenimiento", TV Agro
+http://45.191.234.189:15084/play/a02a/index.m3u8
+#EXTINF:0 type="stream" channelId="1310" group="Entretenimiento", Sun Channel
+http://45.191.234.189:15082/play/a02q/index.m3u8
+#EXTINF:0 type="stream" channelId="1244" group="Entretenimiento", Food Network
+http://190.83.60.34:1414/play/a04i
+#EXTINF:0 type="stream" channelId="1188" group="Entretenimiento", E!
+http://45.191.234.189:15082/play/a03u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="https://amariemagazine.com/wp-content/uploads/2021/10/Kanal-D-Drama.png", Kanal D Drama HD
+http://190.83.60.34:1414/play/a03t
+#EXTINF:0 type="stream" channelId="4696" group="Entretenimiento", Star TVE HD
+http://190.83.60.34:1414/play/a03x
+#EXTINF:0 type="stream" channelId="1190" group="Entretenimiento", Comedy Central
+http://190.83.60.34:1414/play/a02g
+#EXTINF:0 type="stream" channelId="1200" group="Entretenimiento", Lifetime
+http://45.191.234.189:15082/play/a037/index.m3u8
+#EXTINF:0 type="stream" channelId="4661" group="Entretenimiento", Pasiones
+http://190.83.60.34:1414/play/a022
+#EXTINF:0 type="stream" channelId="1967" group="Entretenimiento", Telemundo
+http://45.191.234.189:15084/play/a049/index.m3u8
+#EXTINF:0 type="stream" channelId="2684" group="Entretenimiento", TNT Series
+http://190.83.60.34:1414/play/a034
+#EXTINF:0 type="stream" channelId="187" group="Entretenimiento", Universal TV
+http://190.83.60.34:1414/play/a02u
+#EXTINF:0 type="stream" channelId="188" group="Entretenimiento", Sony Channel
+http://190.83.60.34:1414/play/a01d
+#EXTINF:0 type="stream" channelId="2557" group="Entretenimiento", Warner TV
+http://45.191.234.189:15082/play/a02i/index.m3u8
+#EXTINF:0 type="stream" channelId="2179" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", Star TV
+http://45.191.234.189:15082/play/a02m/index.m3u8
+#EXTINF:0 type="stream" channelId="1952", De Pelicula
+http://45.191.234.189:15082/play/a039/index.m3u8
+#EXTINF:0 type="stream" channelId="3765", Golden Plus
+http://45.191.234.189:15082/play/a03o/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Cinema", Paramount Channel
+http://190.83.60.34:1414/play/a03v
+#EXTINF:0 type="stream" channelId="1303" group="Cinema", FX
+http://190.83.60.34:1414/play/a035
+#EXTINF:0 type="stream" channelId="64" group="Cinema", Cinecanal
+http://190.83.60.34:1414/play/a03l
+#EXTINF:0 type="stream" channelId="1326" group="Cinema", Cinemax
+http://190.83.60.34:1414/play/a02f
+#EXTINF:0 type="stream" channelId="2501" group="Cinema", AMC
+http://190.83.60.34:1414/play/a03m
+#EXTINF:0 type="stream" channelId="2625" group="Cinema", Studio Universal
+http://190.83.60.34:1414/play/a03w
+#EXTINF:0 type="stream" channelId="383" group="Cinema", Space
+http://190.83.60.34:1414/play/a01g
+#EXTINF:0 type="stream" channelId="1052" group="Cinema", TNT
+http://190.83.60.34:1414/play/a025
+#EXTINF:0 type="stream" channelId="1330" group="Cinema", HBO
+http://190.83.60.34:1414/play/a03q
+#EXTINF:0 type="stream" channelId="935" group="Cinema", HBO 2
+http://190.83.60.34:1414/play/a040
+#EXTINF:0 type="stream" channelId="2584" group="Cinema", HBO Family
+http://190.83.60.34:1414/play/a06n
+#EXTINF:0 type="stream" channelId="361" group="Cinema", HBO Pop
+http://190.83.60.34:1414/play/a01j
+#EXTINF:0 type="stream" channelId="2587" group="Cinema", HBO Xtreme
+http://190.83.60.34:1414/play/a06o
+#EXTINF:0 type="stream" channelId="-1" group="Cinema" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", Cine Premium
+http://45.191.234.189:15084/play/a023/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cinema" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png", Cine Familiar
+http://45.191.234.189:15084/play/a021/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cinema" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png", Cine Hispano
+http://45.191.234.189:15082/play/a022/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cinema" logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png", Canal Infantil
+http://45.191.234.189:15082/play/a024/index.m3u8
+#EXTINF:0 type="stream" channelId="339" group="Musica", Telehit Plus
+http://45.191.234.189:15082/play/a03p/index.m3u8
+#EXTINF:0 type="stream" channelId="237" group="Musica", MTV Live HD
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:0 type="stream" channelId="288" group="Musica", HTV
+http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:0 type="stream" channelId="2285", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2146", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="4801" group="Musica", Rumba TV
+http://45.191.234.189:15084/play/a029/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Musica Hits
+http://45.191.234.189:15084/play/a028/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Musica Popular
+http://45.191.234.189:15084/play/a027/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", La Kalle
+http://45.191.234.189:15084/play/a04i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Ranchenato
+http://45.191.234.189:15084/play/a050/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Musica Reggeaton
+http://45.191.234.189:15084/play/a025/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica", Musica K-Pop
+http://45.191.234.189:15082/play/a026/index.m3u8
